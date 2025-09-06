@@ -1,11 +1,9 @@
-# Machin-learning-
-
-This repository contains end-to-end machine learning and deep learning projects implemented using Jupyter Notebooks,Google Colab and VScode. The projects cover various aspects such as data preprocessing, model building, evaluation, and deployment.
+Description: This repository includes SQL scripts and queries for various data analysis tasks. It demonstrates proficiency in SQL through projects involving data extraction, transformation, and analysis.
 
 Key Components:
 
-Data Preprocessing: Cleaning and preparing data for modeling.
+Data Extraction: Using SELECT statements to retrieve data.
 
-Model Building: Implementing algorithms like linear regression, decision trees, etc.
+Data Transformation: Applying functions like JOIN, GROUP BY, and CASE.
 
-Evaluation: Assessing model performance using metrics like accuracy, precision, recall.
+Data Analysis: Performing calculations and aggregations.
